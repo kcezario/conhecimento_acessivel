@@ -23,7 +23,8 @@ Acreditamos que a educação é a chave para um futuro melhor e que todos devem 
 Este protótipo, focado na Wikipédia em português, é apenas o começo! Nossa visão é expandir o assistente para abranger outras áreas do conhecimento e idiomas, tornando a educação verdadeiramente acessível para todos.
 
 ### 🤝  Junte-se à revolução da educação inclusiva!
-* **Explore o código-fonte:**  [link do GitHub]
-* **Participe da comunidade no Discord:**  [link do Discord]
+* **Explore o código-fonte:**  [[link do GitHub](https://github.com/kcezario/conhecimento_acessivel/)]
+* **Vote na comunidade no Discord:**  [link do Discord]
+* **Código no Colab:** [[Código do Colab](https://github.com/kcezario/conhecimento_acessivel/)]
 * **Compartilhe este projeto:**  Ajude-nos a espalhar a mensagem de inclusão e acessibilidade na educação.
 Juntos, podemos construir um futuro onde o conhecimento não conhece barreiras! 💙
