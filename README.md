@@ -50,6 +50,6 @@ Este protótipo, focado na Wikipédia em português, é apenas o começo! Nossa 
 ## 🤝  Junte-se à revolução da educação inclusiva!
 * **Explore o código-fonte:**  [[link do GitHub](https://github.com/kcezario/conhecimento_acessivel/)]
 * **Código no Colab:** [[Código do Colab](https://colab.research.google.com/github/kcezario/conhecimento_acessivel/blob/main/Projeto_Alura_Gemini_Acessibilidade.ipynb)]
-* **Assista ao vídeo demonstrativo:** [Link do YouTube]([https://youtu.be/seu_link_aqui](https://youtu.be/GsEvCSX3qvc))
+* **Assista ao vídeo demonstrativo:** [[Link do YouTube](https://youtu.be/GsEvCSX3qvc)]
 * **Compartilhe este projeto:**  Ajude-nos a espalhar a mensagem de inclusão e acessibilidade na educação.
 Juntos, podemos construir um futuro onde o conhecimento não conhece barreiras! 💙
