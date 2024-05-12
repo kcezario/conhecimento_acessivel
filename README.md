@@ -1,4 +1,4 @@
-# Conhecimento Acessivel
+# Conhecimento Acessível
 
 ## Acessibilidade para Todos: Quebrando Barreiras Digitais com um Assistente Inclusivo
 
@@ -27,4 +27,5 @@ Este protótipo, focado na Wikipédia em português, é apenas o começo! Nossa 
 * **Vote na comunidade no Discord:**  [link do Discord]
 * **Código no Colab:** [[Código do Colab](https://github.com/kcezario/conhecimento_acessivel/)]
 * **Compartilhe este projeto:**  Ajude-nos a espalhar a mensagem de inclusão e acessibilidade na educação.
+* **Assista ao vídeo demonstrativo:** [Link do YouTube](https://youtu.be/seu_link_aqui)
 Juntos, podemos construir um futuro onde o conhecimento não conhece barreiras! 💙
