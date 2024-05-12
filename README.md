@@ -7,23 +7,34 @@ Imagine um mundo onde o conhecimento não tem barreiras, onde a informação flu
 Nosso objetivo é revolucionar a maneira como pessoas com deficiência visual e não alfabetizados acessam a informação, abrindo portas para um futuro mais justo e equitativo na educação.
 
 ## :small_blue_diamond: Descrição do projeto
-	Projeto que utiliza tecnologias de reconhecimento de voz, processamento de linguagem natural e síntese de voz para facilitar o acesso à informação a pessoas com deficiência visual e não alfabetizados, por meio de uma interface de voz que permite a interação natural e intuitiva.
+Projeto que utiliza tecnologias de reconhecimento de voz, processamento de linguagem natural e síntese de voz para facilitar o acesso à informação a pessoas com deficiência visual e não alfabetizados, por meio de uma interface de voz que permite a interação natural e intuitiva.
 
 ## :small_blue_diamond: Funcionalidades
-	- **Compreensão de comandos de voz:** O assistente interpreta comandos de voz do usuário e executa ações como pesquisar informações ou responder perguntas.
-	- **Pesquisa inteligente na Wikipédia:** O assistente utiliza a API do Gemini para buscar e resumir conteúdos da Wikipédia em português, facilitando o acesso à informação.
-	- **Interface de voz:** A interação do usuário com o assistente é totalmente auditiva, o que elimina a necessidade de leitura.
+- **Compreensão de comandos de voz:** O assistente interpreta comandos de voz do usuário e executa ações como pesquisar informações ou responder perguntas.
+- **Pesquisa inteligente na Wikipédia:** O assistente utiliza a API do Gemini para buscar e resumir conteúdos da Wikipédia em português, facilitando o acesso à informação.
+- **Interface de voz:** A interação do usuário com o assistente é totalmente auditiva, o que elimina a necessidade de leitura.
 
 ## :small_blue_diamond: Abrir e rodar o projeto
-	O projeto está hospedado no Google Colab, permitindo fácil acesso e execução do código. Basta seguir o link fornecido e seguir as instruções no notebook para iniciar o assistente.
+O projeto está hospedado no Google Colab, permitindo fácil acesso e execução do código. Para iniciar o assistente, você precisará de uma API Key do Gemini, que é utilizada para acessar os recursos avançados de processamento de linguagem natural oferecidos pelo Google.
+
+### Como obter uma API Key do Gemini:
+1. Acesse o [Google Cloud Platform](https://cloud.google.com/).
+2. Crie um novo projeto ou selecione um projeto existente.
+3. Navegue até a seção "APIs e Serviços" e clique em "Habilitar APIs e Serviços".
+4. Procure por "Gemini API" e habilite-a para o seu projeto.
+5. Após habilitar a API, vá para "Credenciais" e clique em "Criar Credenciais".
+6. Escolha "Chave de API" no menu de opções.
+7. Sua chave será gerada e você poderá copiá-la e usá-la no seu projeto.
+
+Basta seguir o link fornecido no Colab e seguir as instruções no notebook para configurar a API Key e iniciar o assistente.
 
 ## :small_blue_diamond: Tecnologias utilizadas
-	- Google Colab
-	- Python
-	- API do Google Generative AI (Gemini)
-	- Wikipedia API
-	- Whisper para reconhecimento de voz
-	- gTTS para síntese de voz
+- Google Colab
+- Python
+- API do Google Generative AI (Gemini)
+- Wikipedia API
+- Whisper para reconhecimento de voz
+- gTTS para síntese de voz
 
 ## 💡  Criatividade e Eficácia a serviço da Inclusão:
 * **Simplicidade e Usabilidade:**  Projetamos uma experiência intuitiva e fácil de usar, mesmo para pessoas com pouca familiaridade com tecnologia.
@@ -38,8 +49,7 @@ Este protótipo, focado na Wikipédia em português, é apenas o começo! Nossa 
 
 ## 🤝  Junte-se à revolução da educação inclusiva!
 * **Explore o código-fonte:**  [[link do GitHub](https://github.com/kcezario/conhecimento_acessivel/)]
-* **Vote na comunidade no Discord:**  [link do Discord]
-* **Código no Colab:** [[Código do Colab](https://github.com/kcezario/conhecimento_acessivel/)]
-* **Assista ao vídeo demonstrativo:** [Link do YouTube](https://youtu.be/seu_link_aqui)
+* **Código no Colab:** [[Código do Colab](https://colab.research.google.com/github/kcezario/conhecimento_acessivel/blob/main/Projeto_Alura_Gemini_Acessibilidade.ipynb)]
+* **Assista ao vídeo demonstrativo:** [Link do YouTube]([https://youtu.be/seu_link_aqui](https://youtu.be/GsEvCSX3qvc))
 * **Compartilhe este projeto:**  Ajude-nos a espalhar a mensagem de inclusão e acessibilidade na educação.
 Juntos, podemos construir um futuro onde o conhecimento não conhece barreiras! 💙
